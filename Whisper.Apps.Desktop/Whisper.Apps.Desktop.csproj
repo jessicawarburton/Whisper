@@ -236,6 +236,10 @@
       <Project>{FD2E5BD3-F9E1-4668-9878-5661E41B5C3F}</Project>
       <Name>Whisper.Modules.GuidGenerator</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Whisper.Modules.MemorablePasswordGenerator\Whisper.Modules.MemorablePasswordGenerator.csproj">
+      <Project>{8a1f0079-3905-41ca-b412-0c12ce7709b3}</Project>
+      <Name>Whisper.Modules.MemorablePasswordGenerator</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Whisper.Modules.NumberGenerator\Whisper.Modules.NumberGenerator.csproj">
       <Project>{7D4F2F4C-72A4-45AB-98F1-822D848209AA}</Project>
       <Name>Whisper.Modules.NumberGenerator</Name>
